@@ -1,1 +1,1 @@
-# js
+# javascript repository
